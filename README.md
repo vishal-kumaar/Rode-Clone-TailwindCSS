@@ -1,5 +1,5 @@
 ## 🔗Rode Clone Live Link
-https://tailwindcss-rode-clone.netlify.app/
+https://vishal-kumaar.github.io/Rode-Clone-TailwindCSS/
 
 # ✨ TailwindCSS Project:Rode Clone ✨
 This assignment is written in **HTML5, CSS3 and TailwindCSS** which is given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**.
